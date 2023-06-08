@@ -1,2 +1,5 @@
 # Cat-Project
-A fun website dedicated to my cat, Celeste
+
+A fun website dedicated to my cat, Celeste.
+
+
